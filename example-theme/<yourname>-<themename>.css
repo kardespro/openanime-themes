@@ -24,7 +24,7 @@
     --fds-overlay-corner-radius: 10px;
     --fds-control-fast-duration: 50ms;
     --fds-control-faster-duration: 75ms;
-    -fds-focus-stroke: 0 1 0 1px var(--fds-focus-stroke-inner), 0 2 0 3px var(--fds-focus-stroke-outer);
+    --fds-focus-stroke: 0 1 0 1px var(--fds-focus-stroke-inner), 0 2 0 3px var(--fds-focus-stroke-outer);
     --fds-text-secondary: #f59e0b;
     --fds-accent-text-primary: #f59e0b;
     --fds-accent-text-primary: #f59e0b;
