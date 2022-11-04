@@ -1,0 +1,14 @@
+{
+    "name": "example",
+    "description": "Awesome UI",
+    "@author": "Nego",
+    "@github": "kardespro",
+    "advanced": {
+        "website": "https://exampleui.com",
+        "main": "root.css",
+        "fontsUsed": true,
+        "bordered": true,
+        "lisence": "MIT",
+        "lisence_path": "lisance.txt"
+    }
+}
