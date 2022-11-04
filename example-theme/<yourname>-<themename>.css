@@ -1,0 +1,81 @@
+/*
+*
+*  OpenAnime GradientBlueUI
+* 
+*  @author Nego
+*
+*  Github : https://github.com/kardespro
+*
+*  Download : https://cdn.nego-dev.com/openanime/themes/gradientblueui/root.css
+*
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&display=swap');
+
+:root {
+    --fds-accent-default: #f59e0b !important;
+    --fds-layer-on-accent-background-default: green !important;
+    --fds-layer-on-accent-background-default: #f59e0b;
+    --fds-title-font-size: 40px;
+    --fds-control-slow-duration: 222ms;
+    --fds-caption-font-size: 15px;
+    --fds-subtitle-font-size: 30px;
+    --fds-title-large-font-size: 50px;
+    --fds-overlay-corner-radius: 10px;
+    --fds-control-fast-duration: 50ms;
+    --fds-control-faster-duration: 75ms;
+    -fds-focus-stroke: 0 1 0 1px var(--fds-focus-stroke-inner), 0 2 0 3px var(--fds-focus-stroke-outer);
+    --fds-text-secondary: #f59e0b;
+    --fds-accent-text-primary: #f59e0b;
+    --fds-accent-text-primary: #f59e0b;
+    --fds-solid-background-quarternary: #f59e0b;
+    --fds-inactive-window-shadow: 5px 18px 48px hsla(0, 0%, 0%, .37), 5px 2px 10.88px hsla(0, 0%, 0%, .37);
+     font-family: 'League Spartan', sans-serif;
+     --fds-font-family-text: 'League Spartan', sans-serif;
+     --fds-control-corner-radius: 18px;
+     --fds-control-corner-radius: #f59e0b;
+     --fds-accent-text-disabled: #57534e;
+}
+
+body{
+   /* background: linear-gradient(to right, rgb(29, 78, 216), rgb(30, 64, 175), rgb(17, 24, 39));*/
+    background: linear-gradient(to right, rgb(55, 65, 81), rgb(17, 24, 39), rgb(0, 0, 0));
+    color: #f59e0b;
+    font-family: 'League Spartan', sans-serif;
+}
+.svelte-1lrjtuh{
+    padding-left: 0.5rem;
+    padding-left: 0.75rem; /* 12px */         padding-right: 0.75rem;
+    padding-top: 1.5rem;
+}
+
+.combo-box-item.svelte-and1le.svelte-and1le{
+    background: linear-gradient(to right, rgb(29, 78, 216), rgb(30, 64, 175), rgb(17, 24, 39));
+}
+
+button:hover{
+    color: green;
+    border-radius: 60px 50%;
+}
+
+a:hover{
+    color: green;
+    border-radius: 60px 50%;
+   /* width: 6rem;*//*Animation Left*/
+    width: 90%;
+}
+
+.checkbox.svelte-4ss5hf.svelte-4ss5hf{
+    background: #f59e0b;
+    display:flex;
+}
+
+.checkbox.svelte-4ss5hf.svelte-4ss5hf :hover{
+    background: #f59e0b;
+}
+
+.checkbox.svelte-4ss5hf.svelte-4ss5hf:focus{
+    background: #f59e0b;
+    width:90%;
+}
+
